@@ -23,6 +23,11 @@
     - Final Project : HR.ANALYTICS --> increase Conversion Rate until 65%
 
 ## Working Experience:
-#### 1. [PT. Nikomas Gemilang - Divisi Nike](https://www.linkedin.com/company/pouchengroupindonesia/) | Exporting Dept
+#### 1. [PT. Nikomas Gemilang - Divisi Nike](https://www.linkedin.com/company/pouchengroupindonesia/) | Exporting Dept | Serang '2019-now'
+    - Responsible to create Customs Declaration for ready goods
+    - Manage data export in SAP Systems
+    - Prepare dosumnet for unloading trucking process
     
+#### 2. [PT. Krakatau Steel - Divisi HSM](https://www.krakatausteel.com/) | Student Interneship | Cilegon Jul'18 - Aug'18
+    - Help to analyze scale on HSM Product
 -->
