@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently start learning Python, SQL, and ML
-- 👯 I’m looking to collaborate on anyone who can share each other anything about Programming
+- 👯 I’m looking to collaborate on anyone who can share each other anything about Data Science
 - 🤔 I’m looking for help with anything about Data Processing, ML model because I'm a newbie
 - 💬 Ask me about 
-- 📫 How to reach me: @nadiaprab
+- 📫 How to reach me: nadiaputriprabandini@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
