@@ -4,7 +4,7 @@
 **nadiaprab/nadiaprab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About me:
-- 🔭 I’m currently working on personal project(https://drive.google.com/drive/u/0/folders/11ZCO8EKUqy670Sdh37RhjFAuTuMUGbc6)!
+- 🔭 I’m currently working on [personal project](https://drive.google.com/drive/u/0/folders/11ZCO8EKUqy670Sdh37RhjFAuTuMUGbc6)!
 - 🌱 I’m currently start learning Data Science and Analytics
 - 👯 I’m looking to collaborate on anyone who can share each other anything about Data Science
 - 📫 How to reach me: https://www.linkedin.com/in/nadiaputriprabandini/
