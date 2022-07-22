@@ -1,33 +1,21 @@
-### Hi there, I'm Nadia 👋
+### Hi, I'm Nadia 👋
 
 
 **nadiaprab/nadiaprab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About me:
-- 🔭 I’m currently working on something cool
-- 🌱 I’m currently start learning Python, SQL, and ML
+- 🔭 I’m currently working on personal project!
+- 🌱 I’m currently start learning Data Science and Analytics
 - 👯 I’m looking to collaborate on anyone who can share each other anything about Data Science
-- 🤔 I’m looking for help with anything about Data Processing, ML model because I'm a newbie
-- 💬 Ask me about 
-- 📫 How to reach me: nadiaputriprabandini@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: https://www.linkedin.com/in/nadiaputriprabandini/
 
-## Education:
-#### [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id/) | Bachelor  of Physical Science | Surabaya '2015-2020'
-    - Asistant Lecture of Physics Basic II
-    - Asistant Laboratorium of Basic Electronics
-    - Research and Technology Staff in Himpunan Mahasiswa Fisika ITS
+## Academic:
+#### [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id/) | Bachelor's Degree  of Physical Science | Surabaya '2015-2019'
+    - Asistant Lecture of Physics Basic I
+    - Asistant Laboratorium of Basic Electronics II
+    - Active as member on Research and Technology Departement of Himpunan Mahasiswa Fisika ITS 2017
     
-#### [Rakamin Academy](https://www.rakamin.com/) | Data Science Program | Jan'22 - Jun'22
-    - Final Project : HR.ANALYTICS --> increase Conversion Rate until 65%
+#### [Rakamin Academy](https://www.rakamin.com/) | Data Science Program | Jan'22 - May'22
+    - Final Project : HR.ANALYTICS --> increase Conversion Rate until 65% using F1 - Score
 
-## Working Experience:
-#### 1. [PT. Nikomas Gemilang - Divisi Nike](https://www.linkedin.com/company/pouchengroupindonesia/) | Exporting Dept | Serang '2019-now'
-    - Responsible to create Customs Declaration for ready goods
-    - Manage data export in SAP Systems
-    - Prepare dosumnet for unloading trucking process
-    
-#### 2. [PT. Krakatau Steel - Divisi HSM](https://www.krakatausteel.com/) | Student Interneship | Cilegon Jul'18 - Aug'18
-    - Help to analyze scale on HSM Product
--->
+
