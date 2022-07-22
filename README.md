@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [personal project](https://drive.google.com/drive/u/0/folders/11ZCO8EKUqy670Sdh37RhjFAuTuMUGbc6)!
 - 🌱 I’m currently start learning Data Science and Analytics
 - 👯 I’m looking to collaborate on anyone who can share each other anything about Data Science
-- 📫 How to reach me: https://www.linkedin.com/in/nadiaputriprabandini/
+- 📫 How to reach me: nadiaputriprabandini@gmail.com
 
 ## Academic:
 #### [Institut Teknologi Sepuluh Nopember (ITS)](https://www.its.ac.id/) | Bachelor's Degree  of Physical Science | Surabaya '2015-2019'
